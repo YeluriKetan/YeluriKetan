@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Other forms of my online existence:
+<a href="https://www.linkedin.com/in/ketanyeluri/" target="blank"><img src="media/linkedin.svg" alt="" height="30" /></a>
