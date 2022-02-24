@@ -1,10 +1,14 @@
-<img src="media/welcome.jfif" style="display: block;margin-left: auto;margin-right: auto;width: 700;">
+## Hello there 👋, I'm Ketan Yeluri
 
-<p style="display: block;width: 100%;text-align:center;">Welcome</p>
+<div align="center">  
+  <img src="media/welcome.png" style="display: block;margin-left: auto;margin-right: auto;width: 400pt;">
+</div>
+
+## About me
+
+I'm an undergrad student currently in Year 2 of Computer Science at the National University of Singapore.
 
 <!--
-**YeluriKetan/YeluriKetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
