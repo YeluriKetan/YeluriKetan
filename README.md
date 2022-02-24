@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="media/welcome.jfif" style="display: block;margin-left: auto;margin-right: auto;width: 700;">
+
+<p style="display: block;width: 100%;text-align:center;">Welcome</p>
 
 <!--
 **YeluriKetan/YeluriKetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +22,11 @@ Here are some ideas to get you started:
 <div>
 <a href="https://www.linkedin.com/in/ketanyeluri/" target="_blank"><img src="media/linkedin.svg" alt="" height="30" /></a>
 <a href="https://leetcode.com/Ketan_Yeluri/" target="_blank"><img src="media/leetcode.svg" alt="" height="30" /></a>
+<a href="https://www.instagram.com/legend_for_eternity/" target="_blank"><img src="media/instagram.png" alt="" height="30"></a>
 </div>
 
 ## Stats (Coz I like numbers):
 
-<img src="https://github-readme-stats.vercel.app/api?username=YeluriKetan&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="GitHub Stats for MishManners" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YeluriKetan&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="GitHub stats for YeluriKetan" width="700"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeluriketan&layout=compact&theme=gruvbox" alt="Most used languages by YeluriKetan" width="700">
