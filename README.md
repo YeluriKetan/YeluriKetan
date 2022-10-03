@@ -6,20 +6,7 @@
 
 ## About me
 
-I'm an undergrad student currently in Year 2 of Computer Science at the National University of Singapore.
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love solving problems and creating products. I am passionate about photography and films, and am a sucker for minimalism.
 
 ## Other forms of my online existence:
 
@@ -27,6 +14,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ketanyeluri/" target="_blank"><img src="media/linkedin.svg" alt="" height="30" /></a>
 <a href="https://leetcode.com/Ketan_Yeluri/" target="_blank"><img src="media/leetcode.svg" alt="" height="30" /></a>
 <a href="https://www.instagram.com/legend_for_eternity/" target="_blank"><img src="media/instagram.png" alt="" height="30"></a>
+<a href="https://yeluriketan.vercel.app/" target="_blank"><img src="https://github.com/YeluriKetan/project-POWER/blob/master/public/logo.svg" alt="" height="30"></a>
 </div>
 
 ## Stats (Coz I like numbers):
