@@ -5,10 +5,18 @@
 </div>
 
 # 💫 About Me:
-📖🇸🇬 I'm in my final year of studying Computer Science at the National University of Singapore<br>🪐🔭 Currently, I'm immersed in my final year project, an open-source library for running celestial simulations directly in your web browser.<br>⛓️👨‍💻 I'm deep into learning parallel programming and computing with Rust and Go to enhance my programming skills.<br>📷🏎️ Feel free to talk to me about photography, films or Formula 1—I'm passionate about those!<br>🛠️🌱 I love solving problems and creating products, and am a sucker for minimalism.
+📖🇸🇬 I'm a recent graudate of Computer Science from the National University of Singapore.<br>
+🏗️⚓ Currently working in Product and Project Management at the largest port operator in the world.<br>
+👟🪽 Spending my free time building [hermes](https://github.com/YeluriKetan/hermes), a Rust library for efficient and modular implementations of data structures and algorithms.<br>
+📷🏎️ Feel free to talk to me about photography, films or Formula 1 - I'm passionate about those!<br>
+🛠️🌱 I love solving problems and creating products, and am a sucker for minimalism.
 
 ## 🌐 Check out my personal website:
 <a href="https://yeluriketan.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/YeluriKetan/project-POWER/master/public/logo.svg" alt="" height="50"></a>
+
+## 🗂️ Recent works:
+🪐🔭 My final year project, [nbody](https://source-academy.github.io/nbody/) - an open-source library for running n-body simulations directly in your browser.<br>
+🤖📈 [Athena](https://github.com/ChaoticTrio/athena) - prototype machine learning models with architecture visualization and starter code in multiple Python frameworks. 
 
 ## 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/legend_for_eternity) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yeluriketan)
